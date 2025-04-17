@@ -17,7 +17,6 @@
 			"ms-azuretools.vscode-docker",
 			"github.copilot",
 			"eamodio.gitlens",
-			"ms-python.python",
 			"ms-python.vscode-pylance",
 			"ms-python.isort",
 			"ms-toolsai.jupyter",
